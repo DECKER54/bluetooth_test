@@ -1,0 +1,8 @@
+#+TITLE: Runbuddy Blue test
+#+AUTHOR: Ryan Jeffrey
+#+EMAIL: jeffrrya@oregonstate.edu
+
+
+* What
+A simple arduino program that emits bluetooth signals for testing Runbuddy's
+Bluetooth system.
